@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+## Hobbies
+
+* Archery
+* Games
+  * Gacha Games
+  * FPS Games
+  * RPG Games
+  * Survival Games
+  * Competitive Games
+  * Sandbox Games 
+* Manga
+* Learn new things
